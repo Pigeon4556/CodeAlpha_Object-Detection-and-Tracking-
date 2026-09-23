@@ -1,0 +1,8 @@
+Open Command Prompt and go to the project folder:
+
+```cmd for me
+cd /d "D:\project internship 4"
+##RUN
+venv\Scripts\activate
+##For webcam
+python main.py
